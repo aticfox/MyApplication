@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Section7</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="checkbox">I agree</string>
+    <string name="textbutton">By continuing, you accept the Term of Use and Privacy Policy</string>
+
+</resources>
